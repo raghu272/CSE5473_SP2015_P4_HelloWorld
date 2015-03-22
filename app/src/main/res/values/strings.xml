@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NETSEC HelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Spinner fields -->
+    <string name="raghu">Raghu Dasari</string>
+    <string name="brian">Brian Wisniewski</string>
+    <string name="class_number">CSE5432</string>
+    <string name="class_name">Network Security</string>
+    <string name="class_abbv">NETSEC</string>
+
+    <!-- Spinner fields -->
+    <string-array name="spinner_values">
+        <item>Raghu Dasari</item>
+        <item>Brian Wisniewski</item>
+        <item>CSE5432</item>
+        <item>Network Security</item>
+        <item>NETSEC</item>
+    </string-array>
+</resources>
